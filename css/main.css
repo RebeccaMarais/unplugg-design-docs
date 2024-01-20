@@ -124,7 +124,7 @@ textarea {
   h2 {
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
-  font-size: 1.875em;
+    font-size: 1.875em;
   }
   
   h3,
@@ -332,6 +332,11 @@ textarea {
     flex-flow: row wrap;
 
   } 
+
+  .features i {
+    font-size: 3.75em;
+    margin-bottom: 40px;
+  }
 
   /* Reviews */
 
